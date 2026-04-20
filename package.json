@@ -2,8 +2,9 @@
 	"name": "in-group",
 	"private": true,
 	"version": "0.0.0",
-	"description": "Local pi package with reusable correctness-policy and TypeScript-strictness skills.",
-	"keywords": ["pi-package"],
+	"description": "Public pi package with reusable correctness-policy, TypeScript strictness, and trusted-types starter skills.",
+	"license": "MIT",
+	"keywords": ["pi-package", "pi-skills", "typescript", "correctness"],
 	"pi": {
 		"skills": ["./skills"]
 	}
