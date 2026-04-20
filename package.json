@@ -1,0 +1,10 @@
+{
+	"name": "in-group",
+	"private": true,
+	"version": "0.0.0",
+	"description": "Local pi package with reusable correctness-policy and TypeScript-strictness skills.",
+	"keywords": ["pi-package"],
+	"pi": {
+		"skills": ["./skills"]
+	}
+}
